@@ -10,6 +10,11 @@ import java.awt.Image;
  *
  * @author 2cool
  */
+
+
+// git git git
+
+
 public interface INET_MAPS {    	
 	//public int cnt=0;
 	public String png=".png",jpg=".jpg";
