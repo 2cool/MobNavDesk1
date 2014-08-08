@@ -388,7 +388,7 @@ public byte[] downLoadTile(int x, int y, int z){
                 }while (readed>0);
                 
                // return Image.createImage(buf, 0, len);
-                
+               
             }
 
         }finally{
